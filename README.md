@@ -1,4 +1,4 @@
-                                                          Important papers
+Important papers
 
 
 | Paper name | Folder name |
