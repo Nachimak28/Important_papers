@@ -25,5 +25,5 @@ Important papers
 | [Vessel tracking for vessel diameter measurement using dual gaussian functions](https://github.com/Nachimak28/Important_papers/blob/master/Segmentation/vessel%20tracking%20using%20twin%20gaussian.pdf) | [Segmentation](https://github.com/Nachimak28/Important_papers/blob/master/Segmentation) |
 | [Public datasets for Fundus image analysis](https://sci-hub.tw/10.1109/ISPA.2013.6703830) | - |
 | [Glaucoma detection from OCT scans](https://bmj.altmetric.com/details/3820470) | OCT |
-
+| [OCT- new perspectives in Neuro ophthalmology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314576/) | OCT |
 Further additions of papers will be done as links and not PDF files on updation 
