@@ -25,6 +25,8 @@ Important papers
 | [Vessel tracking for vessel diameter measurement using dual gaussian functions](https://github.com/Nachimak28/Important_papers/blob/master/Segmentation/vessel%20tracking%20using%20twin%20gaussian.pdf) | [Segmentation](https://github.com/Nachimak28/Important_papers/blob/master/Segmentation) |
 | [Optic Disc and Cup Segmentation Methods for Glaucoma Detection with Modification of U-Net Convolutional Neural Network](https://arxiv.org/abs/1704.00979) | Segmentation |
 | [A Comprehensive Retinal Image Dataset for the Assessment of Glaucoma from the Optic Nerve Head Analysis](https://www.jscimedcentral.com/BiomedicalData/biomedicaldata-2-1004.pdf) | Segmentation |
+| [Convolutional Neural Network for Combined Classification of Fluorescent Biomarkers and Expert Annotations using White Light Images](https://www.pratiks.info/uploads/convolutional-neural-network-for-combined-classification-of-fluorescent-biomarkers-and-expert-annotations-using-white-light-images.pdf) | Segmentation |
+| [Automated Segmentation of Gingival Diseases from Oral Images](https://www.pratiks.info/uploads/automated-segmentation-of-gingival-diseases-from-oral-images.pdf) | Segmentation |
 | [Public datasets for Fundus image analysis](https://sci-hub.tw/10.1109/ISPA.2013.6703830) | - |
 | [Glaucoma detection from OCT scans](https://bmj.altmetric.com/details/3820470) | OCT |
 | [OCT- new perspectives in Neuro ophthalmology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314576/) | OCT |
