@@ -31,6 +31,6 @@ Important papers
 | [Glaucoma detection from OCT scans](https://bmj.altmetric.com/details/3820470) | OCT |
 | [OCT- new perspectives in Neuro ophthalmology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314576/) | OCT |
 | [OCT based disease diagnosis using deep learning - Deep Mind](https://www.nature.com/articles/s41591-018-0107-6.epdf?referrer_access_token=YuJ2K_8QngAYARPWOn587tRgN0jAjWel9jnR3ZoTv0P43NEH20hFuvBoJk6cvICi9BFwWrEhVdglG3lhnoN9r93-WD9N24Xt2H15X-CV8QT-Nw3dNECzRqwbJoQMCxmW2NN2sRL-C5GSBs7P2vrKNzDUv0pETiOsELcT6ALY5_CzOnAdgi70wRcYNy14CkFnzr-XuCKYEEndQTYaF5yyEZXQ3QHJaeG3myh3mUJ8l30%3D&tracking_referrer=www.wired.co.uk) | [OCT](https://github.com/Nachimak28/Important_papers/tree/master/OCT) |
+| [A Survey on Deep Learning in Medical Image Analysis](https://arxiv.org/pdf/1702.05747.pdf) | Deep Learning in medical image analysis |
+| [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1605.06211.pdf) | Deep Learning in medical image analysis |
 
-
-Further additions of papers will be done as links and not PDF files on updation 
